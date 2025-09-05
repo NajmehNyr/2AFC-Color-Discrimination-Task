@@ -10,7 +10,6 @@ info.addField("eye:", choices=["Left", "Right"])
 info.addText('Choose the non-adapted eye in adaptation condition.')
 info.addField("Adaptation status:", choices=["No_Adaptation", "Adaptation"])
 
-
 #displaying the box and saving the data
 okdata = info.show()
 if not okdata: core.quit()
@@ -20,8 +19,6 @@ adapstatus = okdata[2] if len(okdata) > 2 else ""
 
 
 #Generating experiment's main colors
-rand = np.linspace(0,0.7,10)
-
 blue = []
 for each_b in rand: 
     rgb = [0, 0, each_b]
@@ -119,3 +116,4 @@ exp.saveAsWideText(f'{IDs}_{eye}_{adapstatus}.csv')
 exp.close()
 win.close()
 core.quit()
+
