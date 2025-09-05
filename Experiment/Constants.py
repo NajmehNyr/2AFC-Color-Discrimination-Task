@@ -9,9 +9,10 @@ adaptcolor = (-1, -1, 1)
 # number of colors & representation
 NumOfColors = 20
 NumOfColor = NumOfColors / 2
-reps = 1
+reps = 20
 
 # adaptation time
 long =  float(30)
 short = float(10)
+
 
