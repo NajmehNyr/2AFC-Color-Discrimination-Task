@@ -1,3 +1,5 @@
+import numpy as np
+
 # display
 DISPSIZE = (1920, 1080)
 
@@ -15,3 +17,4 @@ reps = 20
 # adaptation time
 long =  float(30)
 short = float(10)
+
