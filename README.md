@@ -1,0 +1,1 @@
+Experimental Description: This study aimed to estimate the threshold ofn two opponent colors (blue and yellow) using a two-alternative forced choice (2AFC) task in PsychoPy. Twenty color stimuli (10 yellow and 10 blue) were each presented 20 times to each participant. For analysis, a measure of central tendency was used to plot the psychometric function.
