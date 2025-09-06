@@ -4,6 +4,8 @@ This experiment aims to estimate the threshold of two opponent colors—blue and
 
 ## Experimental Description
 Twenty color stimuli (10 yellow and 10 blue) will be presented 20 times to each participant. When the code is executed, a dialog box will appear, allowing you to choose between 'No Adaptation' and 'Adaptation'.
-### No Adaptation: The colors will be displayed randomly, and you must press 'Y' for yellow or 'B' for blue to get to the next trial.
-### Adaptation: Adaptation stimulus (RGB: 0, 0, 255) will be presented for 30 seconds. Following this, the experiment will start, and the colors will be displayed, with the adaptation stimulus shown again for 5 seconds between each trial.
+### No Adaptation
+The colors will be displayed randomly, and you must press 'Y' for yellow or 'B' for blue to get to the next trial.
+### Adaptation
+Adaptation stimulus (RGB: 0, 0, 255) will be presented for 30 seconds. Following this, the experiment will start, and the colors will be displayed, with the adaptation stimulus shown again for 5 seconds between each trial.
 > Color spectrum is accessible in colorbar.ipynb.
