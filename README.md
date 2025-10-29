@@ -11,5 +11,6 @@ The colors will be displayed randomly, and you must press 'Y' for yellow or 'B' 
 Adaptation stimulus (RGB: 0, 0, 255) will be presented for 30 seconds. Following this, the experiment will start, and the colors will be displayed, with the adaptation stimulus shown again for 5 seconds between each trial.
 > Color spectrum is accessible in colorbar.ipynb.
 
-references:
+  
+## references:
 Krauskopf J, Gegenfurtner K. Color discrimination and adaptation. Vision Res. 1992 Nov;32(11):2165-75. doi: 10.1016/0042-6989(92)90077-v. PMID: 1304093.
