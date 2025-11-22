@@ -1,16 +1,22 @@
-# 2AFC Color Discrinmination Task
-## Aims
-This experiment aims to estimate the threshold of two opponent colors—blue and yellow—using a two-alternative forced choice task in PsychoPy. The goal is to study the intraocular transfer phenomenon of adaptation. As you will see, adapting to blue will increase the threshold for blue, causing you to perceive colors with a small amount of blue as yellow.
+### Participants
+Twelve adult female subjects took part in the experiment, which comprised two experimental conditions. Across all participants and conditions, a total of 9,600 responses were recorded.
 
-## Experimental Description
-Twenty color stimuli (10 yellow and 10 blue) will be presented 20 times to each participant. When the code is executed, a dialog box will appear, allowing you to choose between 'No Adaptation' and 'Adaptation'.
-This code can be used for experiments relevent to Krauskopf et al 1992.
-### No Adaptation
-The colors will be displayed randomly, and you must press 'Y' for yellow or 'B' for blue to get to the next trial.
-### Adaptation
-Adaptation stimulus (RGB: 0, 0, 255) will be presented for 30 seconds. Following this, the experiment will start, and the colors will be displayed, with the adaptation stimulus shown again for 5 seconds between each trial.
-> Color spectrum is accessible in colorbar.ipynb.
+### Experimental Procedure
+A Python script utilizing PsychoPy was developed to implement a two-alternative forced-choice (2AFC) color discrimination task. This design allowed participants to select the adaptation status (no adaptation or adaptation) and specify the eye undergoing adaptation.
 
-  
-## references:
-Krauskopf J, Gegenfurtner K. Color discrimination and adaptation. Vision Res. 1992 Nov;32(11):2165-75. doi: 10.1016/0042-6989(92)90077-v. PMID: 1304093.
+https://github.com/user-attachments/assets/61940c35-9af5-4ea1-ac82-6a74c824a1b8
+
+### Design
+Visualization scripts were employed during the experiment design phase to ensure that the selected colors would achieve a 75% performance threshold. The final color bar reflects the chosen stimuli. Sample data may be used to execute the visualization code.
+
+### Statistical Analysis (upcoming)
+MATLAB scripts were utilized for the majority of the final analyses. While I proposed most of the underlying statistical methods, Fatemeh Honarmand implemented the analyses using MATLAB.
+
+### Poster (upcoming)
+
+For further inquiries, please contact me at najmehnayyer@gmail.comOpens a new window.
+
+
+
+
+
