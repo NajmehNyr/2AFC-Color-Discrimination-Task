@@ -16,8 +16,6 @@ MATLAB scripts were utilized for the majority of the final analyses. While I pro
 
 # Poster (upcoming)
 
-For further inquiries, please contact me at najmehnayyer@gmail.comOpens a new window.
-
 
 
 
