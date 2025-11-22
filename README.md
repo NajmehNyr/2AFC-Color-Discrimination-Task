@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/c88aae96-d0ae-4f08-8d9b-7814fbfb474b
 - Sample data may be used to execute the visualization code.
 
 # Statistical Analysis (upcoming)
-MATLAB scripts were utilized for the majority of the final analyses. While I proposed most of the underlying statistical methods, Fatemeh Honarmand implemented the analyses using MATLAB.
+MATLAB scripts were utilized for the majority of the final analyses. While I proposed some of the underlying statistical methods, Fatemeh Honarmand implemented the analyses using MATLAB.
 
 # Poster (upcoming)
 
