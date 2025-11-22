@@ -9,7 +9,6 @@ https://github.com/user-attachments/assets/c88aae96-d0ae-4f08-8d9b-7814fbfb474b
 # Design
 - Visualization scripts were employed during the experiment design phase to ensure that the selected colors would achieve a 75% performance threshold.
 - The final color bar reflects the chosen stimuli.
-- Reformat provides the format needed for statistical analysis. (upcoming)
 - Sample data may be used to execute the visualization code.
 
 # Statistical Analysis (upcoming)
