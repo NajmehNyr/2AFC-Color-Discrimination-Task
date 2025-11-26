@@ -11,10 +11,14 @@ https://github.com/user-attachments/assets/c88aae96-d0ae-4f08-8d9b-7814fbfb474b
 - The final color bar reflects the chosen stimuli.
 - Sample data may be used to execute the visualization code.
 
-# Statistical Analysis (upcoming)
-MATLAB scripts were utilized for the majority of the final analyses. While I proposed most of the underlying statistical methods, Fatemeh Honarmand implemented the analyses using MATLAB.
+# Outcome
+## Abstract
+A poster extracted from some parts of this project was accepted at Basic and Clinical Neuroscience Congress 2025.
 
-# Poster (upcoming)
+[Chromatic Threshold Stability Abstract.pdf](https://github.com/user-attachments/files/23767951/Chromatic.Threshold.Stability.Abstract.pdf)
+
+## Poster (upcoming)
+
 
 
 
