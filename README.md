@@ -1,4 +1,4 @@
-# Participants
+# Data
 Twelve adult female subjects took part in the experiment, which comprised two experimental conditions. Across all participants and conditions, a total of 9,600 responses were recorded.
 
 # Experimental Procedure
