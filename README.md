@@ -17,4 +17,4 @@ A poster extracted from some parts of this project was accepted at Basic and Cli
 [Chromatic Threshold Stability Abstract.pdf](https://github.com/user-attachments/files/23767951/Chromatic.Threshold.Stability.Abstract.pdf)
 
 ## Poster
-![IMG_20251207_013514_239](https://github.com/user-attachments/assets/23e52508-a0f4-431f-95ce-192acc0a5065)
+<img width="3840" height="2160" alt="829" src="https://github.com/user-attachments/assets/310abfb6-f1bf-482b-ac78-fb1c28c433eb" />
