@@ -8,13 +8,4 @@ https://github.com/user-attachments/assets/c88aae96-d0ae-4f08-8d9b-7814fbfb474b
 
 # Design
 - Visualization scripts were employed during the experiment design phase to ensure that the selected colors would achieve a 75% performance threshold.
-- Sample data may be used to execute the visualization code.
-
-# Outcome
-## Abstract
-A poster extracted from some parts of this project was accepted at Basic and Clinical Neuroscience Congress 2025.
-
-[Chromatic Threshold Stability Abstract.pdf](https://github.com/user-attachments/files/23767951/Chromatic.Threshold.Stability.Abstract.pdf)
-
-## Poster
-<img width="3840" height="2160" alt="829" src="https://github.com/user-attachments/assets/310abfb6-f1bf-482b-ac78-fb1c28c433eb" />
+- Sample data may be used to execute the visualization code
